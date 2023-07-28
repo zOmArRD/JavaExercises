@@ -1,3 +1,12 @@
+/*
+ * Created by IntelliJ Idea Ultimate
+ *
+ * User: zOmArRD
+ * Date: 28/7/2023
+ *
+ * Copyright (c) 2023. OMY TECHNOLOGY <omar@omy.technology>
+ */
+
 package dev.zomarrd;
 
 import java.util.Scanner;
